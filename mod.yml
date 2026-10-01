@@ -1,0 +1,10 @@
+title: Onslaught
+originalAuthor: RAXZER
+description: Onslaught FF Resonance/Brave Exvius for Unknown/Mysterious Figure
+dependencies: 
+assets:
+- name: sound\win\bgm\122nazono.win32.scd
+  method: copy
+  platform: pc
+  source:
+  - name: sound\win\bgm\122nazono.win32.scd
